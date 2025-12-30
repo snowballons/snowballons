@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John OK.</h1>
-<h3 align="center">A junior software engineer and a business analyst.</h3>
+<h3 align="center">A junior software engineer </h3>
 
 <p align="left"> <a href="https://twitter.com/snowballons_" target="blank"><img src="https://img.shields.io/twitter/follow/snowballons_?logo=twitter&style=for-the-badge" alt="snowballons_" /></a> </p>
 
-- 🌱 I’m currently learning **AI/ML and full-stack development**
+- 🌱 I’m currently learning **full-stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/snowballons?tab=repositories](https://github.com/snowballons?tab=repositories)
 
