@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/snowballons?tab=repositories](https://github.com/snowballons?tab=repositories)
 
-- 📝 I regularly write articles on [https://snowballons.github.io/](https://snowballons.github.io/)
+- 📝 I regularly write articles on [https://snowballons.com](https://snowballons.com/)
 
 - 💬 Ask me about **automation, problem solving, software development and management**
 
